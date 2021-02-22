@@ -1,7 +1,7 @@
 package chess;
 
 import boardgame.Position;
-import javafx.geometry.Pos;
+
 
 public class ChessPosition {
     private char column;
