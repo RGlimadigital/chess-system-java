@@ -82,22 +82,30 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1614029535408" />
-    <state width="1638" height="397" key="GridCell.Tab.0.bottom" timestamp="1614076954990">
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1614562582719">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="397" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1614076954990" />
-    <state width="1638" height="397" key="GridCell.Tab.0.center" timestamp="1614076954988">
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1614562582719" />
+    <state width="1659" height="397" key="GridCell.Tab.0.bottom" timestamp="1614563481507">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="397" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1614076954988" />
-    <state width="1638" height="397" key="GridCell.Tab.0.left" timestamp="1614076954987">
+    <state width="1659" height="397" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1614563481507" />
+    <state width="1659" height="397" key="GridCell.Tab.0.center" timestamp="1614563481505">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="397" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1614076954987" />
-    <state width="1638" height="397" key="GridCell.Tab.0.right" timestamp="1614076954989">
+    <state width="1659" height="397" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1614563481505" />
+    <state width="1659" height="397" key="GridCell.Tab.0.left" timestamp="1614563481504">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="397" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1614076954989" />
+    <state width="1659" height="397" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1614563481504" />
+    <state width="1659" height="397" key="GridCell.Tab.0.right" timestamp="1614563481506">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="397" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1614563481506" />
+    <state x="536" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1614535197469">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="536" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1614535197469" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chess_system_java$Program.ic" NAME="Program Coverage Results" MODIFIED="1614076954964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
